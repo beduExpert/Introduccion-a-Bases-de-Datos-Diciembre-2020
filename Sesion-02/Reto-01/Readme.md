@@ -1,6 +1,6 @@
 [`Introducción a Bases de Datos`](../../Readme.md) > [`Sesión 02`](../Readme.md) > `Reto 1`
 	
-## Reto 1: Agrupamientos y subconsultas
+## Reto 1: Selecciones con `LIKE`
 
 <div style="text-align: justify;">
 
